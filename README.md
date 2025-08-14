@@ -28,10 +28,15 @@ Se han agregado validaciones para:
 
 ## Estructura del Proyecto
 /proyecto-amigo-secreto
+
 │── index.html        # Estructura principal de la página
+
 │── style.css         # Estilos de la interfaz
+
 │── script.js         # Lógica y funciones del juego
+
 │── README.md         # Documentación del proyecto
+
 ---
 
 ## Lógica del Código
